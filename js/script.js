@@ -367,7 +367,7 @@ function closePopup() {
     if (myPop.contains('_active')) {
 
         myPop.remove('_active');
-        //document.location.replace('https://petr791.github.io/Bicycle-site/');
+        document.location.replace('https://petr791.github.io/OnlineScore/');
 
     }
 }
