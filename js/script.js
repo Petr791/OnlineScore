@@ -368,7 +368,6 @@ function closePopup() {
 
         myPop.remove('_active');
         document.location.replace('https://petr791.github.io/OnlineScore/');
-
     }
 }
 
